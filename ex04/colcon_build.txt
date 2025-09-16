@@ -1,0 +1,5 @@
+WARNING: Package name "VishA1308" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+Starting >>> VishA1308
+Finished <<< VishA1308 [3.87s]
+
+Summary: 1 package finished [4.29s]
